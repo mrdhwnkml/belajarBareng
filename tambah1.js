@@ -1,1 +1,1 @@
-"baru";
+"baru oke";
